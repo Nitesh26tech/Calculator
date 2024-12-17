@@ -6,11 +6,11 @@ h1{
     margin: 20px 45%;
 }
 #main{
-    width: 400px;
+    width: 840px;
     height: 600px;
     /* border: 2px solid black; */
     margin: 45px auto;
-    background-image:url(../calculator/iphonepng);
+    background-image:url(./img/iphonepng.png);
     background-size: cover;
     background-position: center;
 }
@@ -41,12 +41,12 @@ input{
 
 }
 #numpad{
-    height: 65%;
-    width:260px;
+    height: 67%;
+    width:285px;
     margin: 0 auto;
     position: relative;
     background-color: rgb(23, 22, 22);
-    border-radius: 0 0 40px 40px;
+    border-radius: 0 0 35px 34px;
     display: flex;
     align-items: center;
     justify-content: center;
